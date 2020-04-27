@@ -1,2 +1,2 @@
-# [endless-he](https://grosserly.github.io/endless-he/)
+# [endless-he](https://the-garlic-os.github.io/endless-he/)
 he
